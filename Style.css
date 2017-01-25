@@ -1,0 +1,18 @@
+
+body {
+    background-color: orange;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.div {
+	color: black;
+	background-color: white;
+	width: 200px;
+}
+
+.li_b{
+	color:red;
+}
